@@ -1659,6 +1659,8 @@ idiotic	-3
 ignorance	-2
 ignorant	-2
 ignore	-1
+αγνοώ -1
+//2015046 Tasiopoulos Manolis CSCW
 ignored	-2
 ignores	-1
 ill	-2
@@ -1917,6 +1919,8 @@ kudos	3
 lack	-2
 lackadaisical	-2
 lag	-1
+καθυστέρηση -1
+//2015046 Tasiopoulos Manolis CSCW
 lagged	-2
 lagging	-2
 lags	-2
@@ -1959,6 +1963,8 @@ likeable	2
 liked	2
 likers	2
 likes	2
+μου αρέσουν 2
+//2015046 Tasiopoulos Manolis CSCW
 liking	2
 limitation	-1
 limited	-1
@@ -2008,6 +2014,8 @@ lovelies	3
 lovely	3
 loves	3
 loving	2
+τρυφερός 2
+//2015046 Tasiopoulos Manolis CSCW
 loving-kindness	3
 lowest	-1
 loyal	3
@@ -2121,6 +2129,8 @@ missing	-2
 mistake	-2
 mistaken	-2
 mistakes	-2
+λάθη -2
+//2015046 Tasiopoulos Manolis CSCW
 mistaking	-2
 misunderstand	-2
 misunderstanding	-2
@@ -2200,6 +2210,8 @@ noisy	-1
 non-approved	-2
 nonsense	-2
 noob	-2
+αρχάριος -2
+//2015046 Tasiopoulos Manolis CSCW
 nosey	-2
 not good	-2
 not working	-3
@@ -2269,6 +2281,8 @@ outreach	2
 outstanding	5
 overjoyed	4
 overload	-1
+υπερφόρτωση -1
+//2015046 Tasiopoulos Manolis CSCW
 overlooked	-1
 overprotective	-2
 overran	-2
@@ -2420,6 +2434,8 @@ preventing	-1
 prevents	-1
 prick	-5
 prison	-2
+φυλακή -2
+//2015046 Tasiopoulos Manolis CSCW
 prisoner	-2
 prisoners	-2
 privileged	2
@@ -2613,6 +2629,8 @@ rewarded	2
 rewarding	2
 rewards	2
 rich	2
+πλούσιος 2
+//2015046 Tasiopoulos Manolis CSCW
 richly	2
 ridiculous	-3
 rig	-1
@@ -2688,6 +2706,8 @@ scared	-2
 scar	-2
 scars	-2
 scary	-2
+τρομακτικό -2
+//2015046 Tasiopoulos Manolis CSCW
 sceptical	-2
 scold	-2
 scoop	3
@@ -2750,6 +2770,8 @@ shortage	-2
 shortages	-2
 shrew	-4
 shy	-1
+ντροπαλός -1
+//2015046 Tasiopoulos Manolis CSCW
 sick	-2
 sickness	-2
 side-effect	-2
@@ -2823,6 +2845,8 @@ solidifying	2
 solution	1
 solutions	1
 solve	1
+λύση 1
+//2015046 Tasiopoulos Manolis CSCW
 solved	1
 solves	1
 solving	1
@@ -2902,6 +2926,8 @@ stop	-1
 stopped	-1
 stopping	-1
 stops	-1
+στάσεις -1
+//2015046 Tasiopoulos Manolis CSCW
 stout	2
 straight	1
 strange	-1
@@ -3006,6 +3032,8 @@ sweet	2
 sweeter	3
 sweetest	3
 swift	2
+ταχύς 2
+//2015046 Tasiopoulos Manolis CSCW
 swiftly	2
 swindle	-3
 swindles	-3
@@ -3043,6 +3071,8 @@ thoughtful	2
 thoughtless	-2
 threat	-2
 threaten	-2
+απειλώ -2
+//2015046 Tasiopoulos Manolis CSCW
 threatened	-2
 threatening	-2
 threatens	-2
@@ -3082,6 +3112,8 @@ transgressed	-2
 transgresses	-2
 transgressing	-2
 trap	-1
+παγίδα -1
+//2015046 Tasiopoulos Manolis CSCW
 trapped	-2
 traps	-1
 trauma	-3
@@ -3369,6 +3401,8 @@ woohoo	3
 wooo	4
 woow	4
 worn	-1
+φθαρμένο -1
+//2015046 Tasiopoulos Manolis CSCW
 worried	-3
 worries	-3
 worry	-3
@@ -3396,6 +3430,8 @@ wronged	-2
 wrongful	-2
 wrongfully	-2
 wrongly	-2
+λανθασμένα -2
+//2015046 Tasiopoulos Manolis CSCW
 wtf	-4
 wtff	-4
 wtfff	-4
