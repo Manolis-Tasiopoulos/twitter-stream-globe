@@ -9,15 +9,15 @@ nconf.file({ file: 'config.json' }).env();
 TweetPublisher = { };
 
 var twitter = TweetPublisher.twitter = new Twit({
-	consumer_key: nconf.get('TWITTER_CONSUMER_KEY'),
-	consumer_secret: nconf.get('TWITTER_CONSUMER_SECRET'),
-	access_token: nconf.get('TWITTER_ACCESS_TOKEN'),
-	access_token_secret: nconf.get('TWITTER_TOKEN_SECRET')
+	consumer_key: nconf.get('4QrEdwSifJlyqvgeNuiBhHnHL'),
+	consumer_secret: nconf.get('r4x8uzvGZKR0Sfb4JGFdVErZAmcYkrwqjwm993beoup8LBlm29'),
+	access_token: nconf.get('702258926587396096-szzC7W5lnrJpLEzQ5rOyGAWewm43z5Z'),
+	access_token_secret: nconf.get('OHqzRBmnYVEqFWOFume3Ee79rRZKwCq5bpLrjVar6Fvft')
 });
 
 var pubnub = TweetPublisher.pubnub = Pubnub({
-	publish_key: nconf.get('PUBNUB_PUBLISH_KEY'),
-	subscribe_key: nconf.get('PUBNUB_SUBSCRIBE_KEY')
+	publish_key: nconf.get('pub-c-0b987989-1e17-4361-81ea-556967c8d08c'),
+	subscribe_key: nconf.get('sub-c-01b329b4-080e-11e7-91d0-02ee2ddab7fe')
 });
 
 var stream, cachedTweet, publishInterval;
