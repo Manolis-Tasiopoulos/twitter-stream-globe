@@ -32,6 +32,8 @@ accepted	1
 accepting	1
 accepts	1
 accessible	1
+προσβάσιμο 1
+//2015046 Tasiopoulos Manolis CSCW
 accident	-2
 accidental	-2
 accidentally	-2
@@ -518,6 +520,8 @@ cleared	1
 clearly	1
 clears	1
 clever	2
+έξυπνος 2
+//2015046 Tasiopoulos Manolis CSCW
 clouded	-1
 clueless	-2
 cock	-5
@@ -660,6 +664,8 @@ crestfallen	-2
 cried	-2
 cries	-2
 crime	-3
+το έγκλημα -3
+//2015046 Tasiopoulos Manolis CSCW
 crimes	-3
 criminal	-3
 criminals	-3
@@ -697,6 +703,8 @@ cut	-1
 cutback	-2
 cutbacks	-2
 cute	2
+χαριτωμένο 2
+//2015046 Tasiopoulos Manolis CSCW
 cuts	-1
 cutting	-1
 cynic	-2
@@ -721,6 +729,8 @@ darkness	-1
 dauntless	2
 dazzling	3
 dead	-3
+νεκρός -3
+//2015046 Tasiopoulos Manolis CSCW
 deadening	-2
 deadlock	-2
 deadly	-3
@@ -776,6 +786,8 @@ dejected	-2
 dejecting	-2
 dejects	-2
 delay	-1
+καθυστέρηση -1
+//2015046 Tasiopoulos Manolis CSCW
 delayed	-1
 delectable	3
 delicious	3
@@ -1553,6 +1565,8 @@ havoc	-2
 hazardous	-3
 headache	-2
 healthy	2
+υγιή 2
+//2015046 Tasiopoulos Manolis CSCW
 heartbreaking	-3
 heartbroken	-3
 heartfelt	3
@@ -1605,6 +1619,8 @@ hopefully	2
 hopeless	-2
 hopelessness	-2
 hopes	2
+ελπίδες 
+//2015046 Tasiopoulos Manolis CSCW
 hoping	2
 horrendous	-3
 horrid	-3
@@ -2960,6 +2976,8 @@ superior	2
 support	2
 supported	2
 supporter	1
+supporter 1
+//2015046 Tasiopoulos Manolis CSCW
 supporters	1
 supporting	1
 supportive	2
@@ -2982,6 +3000,9 @@ swear	-2
 swearing	-2
 swears	-2
 sweet	2
+γλυκό 2
+γλυκός 2
+//2015046 Tasiopoulos Manolis CSCW
 sweeter	3
 sweetest	3
 swift	2
@@ -3150,13 +3171,19 @@ unfitted	-2
 unfocused	-2
 unforgivable	-3
 unforgiving	-2
+ασυγχώρητος -2
+//2015046 Tasiopoulos Manolis CSCW
 unfulfilled	-2
 unfunny	-2
+Μη κωμικός -2
+//2015046 Tasiopoulos Manolis CSCW
 ungenerous	-2
 ungrateful	-3
 unhappy	-2
 unhappiness	-2
 unhealthy	-2
+ανθυγιεινά -2
+//2015046 Tasiopoulos Manolis CSCW
 unhygienic	-2
 unified	1
 unimaginative	-2
@@ -3198,6 +3225,8 @@ unsure	-1
 untarnished	2
 untrue	-2
 unwanted	-2
+ανεπιθύμητη -2
+//2015046 Tasiopoulos Manolis CSCW
 unworthy	-2
 uplifting	2
 uproar	-3
@@ -3234,6 +3263,8 @@ victor	3
 victors	3
 victory	3
 victories	3
+νίκες 3
+//2015046 Tasiopoulos Manolis CSCW
 vigilant	3
 vigor	3
 vile	-3
@@ -3243,6 +3274,8 @@ vindicates	2
 vindicating	2
 violate	-2
 violated	-2
+παραβιάζονται -2
+//2015046 Tasiopoulos Manolis CSCW
 violates	-2
 violating	-2
 violation	-2
