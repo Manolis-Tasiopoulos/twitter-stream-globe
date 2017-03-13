@@ -3,8 +3,12 @@
 
 $twitter-color: #55ACEE;
 $panel-color: #222;
-$color-negative: #FF0000;
-$color-positive: #DDDD00;
+
+$color-very-negative: #FF0000;
+$color-negative: #FF5050;
+$color-positive: #CCFF66;
+$color-very-positive : #00FF00;
+
 $color-neutral: #444;
 $color-text: #CCC;
 $panel-border: 5px solid #333;
@@ -215,13 +219,25 @@ a {
 		top: -8px;
 		font-size: 12px;
 	}
+	
+	&.very-negative 
+	{
+		border-color: $color-very-negative;
+	}
 
-	&.negative {
+	&.negative
+	{
 		border-color: $color-negative;
 	}
 
-	&.positive {
+	&.positive
+	{
 		border-color: $color-positive;
+	}
+	
+	&.very-positive 
+	{
+		border-color: $color-very-positive;
 	}
 }
 
